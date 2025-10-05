@@ -62,7 +62,6 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 
 <div align="center">
 
-![Deborah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DeborahOlaboye&show_icons=true&theme=radical&hide_rank=false&hide_title=false&hide_border=true&count_private=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOlaboye&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800)
 
 </div>
