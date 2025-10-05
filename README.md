@@ -1,50 +1,92 @@
-# 👨‍💻 Fullstack Developer Portfolio
+<!-- HEADER SECTION -->
+<div align="center">
 
-Hi, I'm Deborah Olaboye, a passionate fullstack developer experienced in building dynamic and scalable web applications using Django, React, and modern technologies.
+# Hi, I’m **Deborah Olaboye**
 
----
+### Full-Stack Blockchain Developer  
+_Building secure, scalable, and open decentralized systems — from smart contracts to protocol specs._
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deborah%20Olaboye-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olaboye-deborah-575094156) 
+[![GitHub](https://img.shields.io/badge/GitHub-DeborahOlaboye-black?style=flat&logo=github)](https://github.com/DeborahOlaboye)
+[![X](https://img.shields.io/badge/X-@debielily-1DA1F2?style=flat&logo=twitter)](https://x.com/debielily)
+[![Email](https://img.shields.io/badge/Email-deboraholaboye%40gmail.com-red?style=flat&logo=gmail)](mailto:deboraholaboye@gmail.com)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📁 Projects
-
-### TechHub
-
-**Tech:** Django, HTML/CSS, Javascript
-A dynamic Django-based website enabling customers to request quotations and browse available services. Built backend functionalities, including request submission forms, database integration, and service catalog management. Deployed the application on Render for secure and reliable hosting.
-
-### ACCN
-
-**Tech:** Django, HTML/CSS, Javascript  
-A fullstack web app that allows users to register and admins seamlessly manage users. The platform integrates form validations, secure authentication, and responsive UI.
+</div>
 
 ---
 
-## 📷 Screenshots
+## About Me
 
-![Home Preview](home.png)
-![Sermon Preview](sermons.png)
+I’m a passionate **Full-Stack Blockchain Developer** with hands-on experience building end-to-end Web3 applications.  
+My goal is to design **decentralized, user-centric systems** that simplify on-chain interactions and make blockchain accessible to everyone.
+
+**Core Focus:** Smart Contracts • DeFi • DAO Governance • Protocol Design  
+
+**Languages & Tools:** Solidity • TypeScript • Python • React • JavaSCript • Hardhat • Foundry   
+
+**Currently Exploring:** L1 and L2 scalability and AI × Blockchain integrations  
 
 ---
 
-### Smart Task Manager – Task API System
+## Open Source Contributions
 
-**Tech:** Django REST Framework  
-CRUD API with user-based permissions, superuser controls, and simple frontend interface in `task_list.html`.
+| Repository | PR |
+|---------------|-------|
+| [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pull/1448) | [#1448](https://github.com/ethereum/execution-specs/pull/1448) | 
+| [**NexaFx-contract (Nexacore-Org)**](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) | [#34](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) |
+| [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/644) | [#644](https://github.com/CarmineOptions/derisk-research/pull/644) | 
+| [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/643) | [#643](https://github.com/CarmineOptions/derisk-research/pull/643) | 
 
-## 📫 Let's Connect
+> _Open source isn’t just contribution — it’s co-creation of the future._
 
-- GitHub: [https://github.com/DeborahOlaboye]
-- LinkedIn: [https://www.linkedin.com/in/olaboye-deborah-575094156/]
-- Twitter: [https://x.com/theglobaldebby]
-- Email: [deboraholaboye@gmail.com]
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|-------------|----------------|-----------|
+| [**Staking dApp**](https://github.com/DeborahOlaboye/staking-dApp) | Token staking system with interactive dashboard and smart contract integration | Solidity • Hardhat • React |
+| [**DAO Contract Suite**](https://github.com/DeborahOlaboye/DAOContract) | Modular DAO governance system for proposal management and voting | Solidity |
+
+---
+
+## Highlights & Achievements
+
+- Contributor to **Ethereum Execution Layer Specs** — backbone of Ethereum’s protocol evolution  
+- Contributed to **CarmineOptions** and **NexaCore** blockchain ecosystems   
+- Active advocate for decentralized innovation  
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Deborah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DeborahOlaboye&show_icons=true&theme=radical&hide_rank=false&hide_title=false&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahOlaboye&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800)
+
+</div>
+
+
+---
+
+## Let’s Connect
+
+I’m open to collaborating or contributing on:
+- **Protocol / Core Blockchain Engineering**  
+- **DeFi & Smart Contract Architecture**  
+- **Full-Stack dApp Development**  
+- **Blockchain Research & Innovation**
+
+**Reach me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deborah%20Olaboye-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olaboye-deborah-575094156)
+[![X](https://img.shields.io/badge/X-@debielily-1DA1F2?style=flat&logo=twitter)](https://x.com/debielily)
+[![Email](https://img.shields.io/badge/Email-deboraholaboye%40gmail.com-red?style=flat&logo=gmail)](mailto:deboraholaboye@gmail.com)
+
+---
+
+<div align="center">
+
+> _“Open protocols, open collaboration — empowering the next generation of decentralized innovation.”_
+
+</div>
