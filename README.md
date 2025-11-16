@@ -27,7 +27,6 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 **Currently Exploring:** L1 and L2 scalability and AI × Blockchain integrations  
 
 ---
-
 ## Open Source Contributions
 
 | Repository | PR |
@@ -36,6 +35,7 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 | [**NexaFx-contract (Nexacore-Org)**](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) | [#34](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) |
 | [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/644) | [#644](https://github.com/CarmineOptions/derisk-research/pull/644) | 
 | [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/643) | [#643](https://github.com/CarmineOptions/derisk-research/pull/643) | 
+| [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pull/1632) | [#1632](https://github.com/ethereum/execution-specs/pull/1632) | 
 
 > _Open source isn’t just contribution — it’s co-creation of the future._
 
