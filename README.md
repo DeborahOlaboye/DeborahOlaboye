@@ -32,10 +32,17 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 | Repository | PR |
 |---------------|-------|
 | [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pull/1448) | [#1448](https://github.com/ethereum/execution-specs/pull/1448) | 
+| [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pull/1632) | [#1632](https://github.com/ethereum/execution-specs/pull/1632) | 
+| [**jupyterlab/jupyterlab**](https://github.com/jupyterlab/jupyterlab/pull/18379) | [#18379](https://github.com/jupyterlab/jupyterlab/pull/18379) | 
+| [**ray-project/ray**](https://github.com/ray-project/ray/pull/60320) | [#60320](https://github.com/ray-project/ray/pull/60320) | 
+| [**ray-project/ray**](https://github.com/ray-project/ray/pull/60066) | [#60066](https://github.com/ray-project/ray/pull/60066) | 
+| [**ray-project/ray**](https://github.com/ray-project/ray/pull/60642) | [#60642](https://github.com/ray-project/ray/pull/60642) | 
+| [**openwrt/luci**](https://github.com/openwrt/luci/pull/8293) | [#8293](https://github.com/openwrt/luci/pull/8293) | 
+| [**microsoft/LightGBM**](https://github.com/microsoft/LightGBM/pull/7144) | [#7144](https://github.com/microsoft/LightGBM/pull/7144) | 
 | [**NexaFx-contract (Nexacore-Org)**](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) | [#34](https://github.com/Nexacore-Org/NexaFx-contract/pull/34) |
 | [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/644) | [#644](https://github.com/CarmineOptions/derisk-research/pull/644) | 
 | [**CarmineOptions/derisk-research**](https://github.com/CarmineOptions/derisk-research/pull/643) | [#643](https://github.com/CarmineOptions/derisk-research/pull/643) | 
-| [**ethereum/execution-specs**](https://github.com/ethereum/execution-specs/pull/1632) | [#1632](https://github.com/ethereum/execution-specs/pull/1632) | 
+
 
 > _Open source isn’t just contribution — it’s co-creation of the future._
 
