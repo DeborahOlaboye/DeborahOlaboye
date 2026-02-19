@@ -22,7 +22,7 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 
 **Core Focus:** Smart Contracts • DeFi • DAO Governance • Protocol Design  
 
-**Languages & Tools:** Solidity • TypeScript • Python • React • JavaSCript • Hardhat • Foundry   
+**Languages & Tools:** Solidity • TypeScript • Python • React • JavaScript • Hardhat • Foundry   
 
 **Currently Exploring:** L1 and L2 scalability and AI × Blockchain integrations  
 
@@ -59,9 +59,15 @@ My goal is to design **decentralized, user-centric systems** that simplify on-ch
 
 ## Highlights & Achievements
 
-- Contributor to **Ethereum Execution Layer Specs** — backbone of Ethereum’s protocol evolution  
-- Contributed to **CarmineOptions** and **NexaCore** blockchain ecosystems   
-- Active advocate for decentralized innovation  
+- Delivered merged contributions to core open-source infrastructure projects:
+  - **JupyterLab** — Enhancing the interactive computing platform used globally for data science & research  
+  - **Ray** — Strengthening distributed computing and scalable AI infrastructure (multiple merged PRs)  
+  - **Microsoft LightGBM** — Improving high-performance gradient boosting for production ML systems  
+  - **OpenWRT LuCI** — Advancing open-source networking and embedded systems interfaces  
+
+- Contributed to Ethereum Execution Layer Specs — Supporting protocol-level improvements in blockchain infrastructure  
+
+- Active contributor across AI, distributed systems, networking, and decentralized technologies
 
 ---
 
